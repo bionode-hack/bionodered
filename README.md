@@ -15,8 +15,8 @@
 # License
 MIT
 
-[npm-stats-image]: https://nodei.co/npm/bionode.png?downloads=true&downloadRank=true&stars=true)
-[npm-stats-url]: https://nodei.co/npm/bionode/
+[npm-stats-image]: https://nodei.co/npm/bionodered.png?downloads=true&downloadRank=true&stars=true)
+[npm-stats-url]: https://nodei.co/npm/bionodered/
 [npm-url]: http://npmjs.org/package/bionodered
 [npm-image]: http://img.shields.io/npm/v/bionodered.svg?style=flat-square
 [travis-url]: http:////travis-ci.org/bionode/bionodered

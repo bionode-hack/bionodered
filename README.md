@@ -1,4 +1,6 @@
 # Bionodered
+
+[![Join the chat at https://gitter.im/bionode/bionodered](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bionode/bionodered?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > Bionode + Node-RED (hackday at [cw15](http://software.ac.uk/cw15))
 
 [![NPM stats][npm-stats-image]][npm-stats-url]

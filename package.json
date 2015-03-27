@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "standard && echo \"Error: no test specified\" && exit 1",
-    "start": "node-red" 
+    "start": "node-red"
   },
   "author": "Bruno Vieira <mail@bmpvieira.com>",
   "license": "MIT",
   "dependencies": {
     "bionode": "^1.0.3",
+    "concat-stream": "^1.4.7",
     "node-red": "^0.10.4",
     "standard": "^3.3.0"
   }

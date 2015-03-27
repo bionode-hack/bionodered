@@ -1,0 +1,11 @@
+node_modules
+credentials.json
+flows*.json
+*.backup
+*_cred*
+nodes/node-red-nodes/
+.npm
+/coverage
+.config.json
+.sessions.json
+
